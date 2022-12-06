@@ -1,0 +1,27 @@
+.AuthPage {
+  background-image: url("markus-winkler-7iSEHWsxPLw-unsplash\(1\).jpg");
+  max-width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: var(--white);
+  /* border-radius: 2vmin; */
+}
+
+.AuthPage h3 {
+  margin-top: 4vmin;
+  text-align: center;
+  color: var(--text-light);
+  cursor: pointer;
+}
+
+.signup{
+  height: 30vh;
+  width: 60vh;
+  background-color:#35034f;
+  
+}
+
+/* --text-light: #f9626c;
+--text-dark: #35034f; */
